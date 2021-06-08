@@ -50,11 +50,13 @@ ________________________________________________________________________________
 - 💬 Ask me about anything that you want to learn
 - 📫 How to reach me: Linkedin (https://www.linkedin.com/in/mesut-ozturk)
 
-_________________________________________________________________________________
+__________________________________________________________________________________________________________
 
+
+
+## 📈 Statistics
 
 <p align="left">
- ## 📈 Statistics  
  <img src="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/>
 </p>
 
