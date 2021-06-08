@@ -30,7 +30,6 @@ _____________________________________________________________
  <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
- [<img src="./content_heart-react.gif" alt="react-native" width="20%" height="20%" align="right">](url)
 </p>
 
 ______________________________________________________________________________________________________
@@ -52,12 +51,17 @@ ________________________________________________________________________________
 - 💬 Ask me about anything that you want to learn
 - 📫 How to reach me: Linkedin (https://www.linkedin.com/in/mesut-ozturk)
 
-## 📈 Statistics
+_________________________________________________________________________________
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/></p>
+
+## 📈 Statistics  <p align="left"><img src="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/></p>
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Mesut-OZTURK&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"></p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my commit status" width="49%" />
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Mesut-OZTURK&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+</p>
 
 
