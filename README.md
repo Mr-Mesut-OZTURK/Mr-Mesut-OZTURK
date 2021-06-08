@@ -1,15 +1,11 @@
-#####################  MESUT OZTURK #########################
-
-   Hi guys! My name is Mesut. Welcome to my GitHub.
+##   Hi guys! My name is Mesut. Welcome to my GitHub.
 _____________________________________________________________
-
 
 ## Hi there, I am a Fullstack Web Developer 👋
 
-## Knowledge is always in my scope !!! 
 
 ## 🚀 Skills
-
+--------------------------------------------------------------
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
@@ -37,10 +33,11 @@ _____________________________________________________________
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png" height="45"/> </a>
 </p>
+_________________________________________________________________________
 
 
 ## 👨👩 Social
-
+--------------------------------------------------------------------------
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mesut-ozturk)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
@@ -53,30 +50,14 @@ _____________________________________________________________
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
-- 📫 How to reach me: Linkedin (https://www.linkedin.com/in/muratsahin-)
+- 📫 How to reach me: Linkedin (https://www.linkedin.com/in/mesut-ozturk)
 
 ## 📈 Statistics
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=sahinmurat" alt="visitor counter" width="20%"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/></p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sahinmurat&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahinmurat&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahinmurat&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Mesut-OZTURK&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"></p>
 
 
-
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on programming languages
-- 🌱 I’m currently learning JavaScript | React | React Native
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: Twitter(https://twitter.com/farukci20)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
