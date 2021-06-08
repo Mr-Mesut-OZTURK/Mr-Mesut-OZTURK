@@ -42,7 +42,6 @@ ________________________________________________________________________________
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
 - 🔭 I’m currently working on frontend development (JavaScript | React | HTML | CSS)
@@ -54,7 +53,10 @@ ________________________________________________________________________________
 _________________________________________________________________________________
 
 
-## 📈 Statistics  <p align="left"><img src="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/></p>
+<p align="left">
+ ## 📈 Statistics  
+ <img src="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/>
+</p>
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Mesut-OZTURK&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
