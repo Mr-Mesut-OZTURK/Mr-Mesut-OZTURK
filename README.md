@@ -31,6 +31,8 @@ _____________________________________________________________
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
  <a href="#" target="_blank"> <img src="https://assets.brandfolder.com/pl546j-7le8zk-btwjnu/original/Slack_RGB.png" height="45"/> </a>
+ <a href="#" target="_blank"> <img src="./content_heart-react.gif" alt="react-native" width="20%" height="20%" align="right"> </a>
+
 </p>
 _________________________________________________________________________
 
