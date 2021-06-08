@@ -1,11 +1,10 @@
-##   Hi guys! My name is Mesut. Welcome to my GitHub.
+## Hi guys! My name is Mesut. Welcome to my GitHub.
+
+## I am a Fullstack Web Developer 👋
 _____________________________________________________________
 
-## Hi there, I am a Fullstack Web Developer 👋
-
-
 ## 🚀 Skills
---------------------------------------------------------------
+
 <p>
  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
@@ -37,7 +36,7 @@ _________________________________________________________________________
 
 
 ## 👨👩 Social
---------------------------------------------------------------------------
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mesut-ozturk)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
