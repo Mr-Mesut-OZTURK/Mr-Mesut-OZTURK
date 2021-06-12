@@ -1,4 +1,8 @@
-## Hi guys! My name is Mesut. Welcome to my GitHub.
+# Hi guys! My name is Mesut. Welcome to my GitHub.
+
+## https://mr-mesut-ozturk.github.io/Mr-Mesut-OZTURK/
+
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://mr-mesut-ozturk.github.io/Mr-Mesut-OZTURK/)
 
 ## I am a Fullstack Web Developer 👋
 _____________________________________________________________
