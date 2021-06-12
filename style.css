@@ -1,0 +1,82 @@
+body {
+    background-image: url(./images/download.png);
+}
+
+#main-container {
+    width: 80%;
+    min-height: 700px;
+    /* min-width: 280px; */
+    background-color: rgba(0, 0, 0, 0.4);
+    margin: 50px auto;
+    padding: 10px;
+}
+
+#main-header {
+    text-align: center;
+    /* background-color: blue; */
+}
+
+#main-title {
+    cursor: pointer;
+    color: rgb(29, 27, 3);
+}
+
+#main-title-span {
+    cursor: pointer;
+    color: rgb(168, 5, 5);
+}
+
+#main-description {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#main-title:hover,
+#main-title-span:hover,
+#main-description:hover {
+    color: cornsilk;
+}
+
+#main-section {
+    max-width: 500px;
+    min-height: 300px;
+    background-color: rgb(0, 0, 0, 0.6);
+    margin: auto;
+    padding: 10px;
+}
+
+.main-section {
+    text-align: center;
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+}
+
+.section-h2 {
+    color: rgb(207, 147, 17);
+}
+
+.main-inner-section {
+    
+}
+
+.section-i {
+    text-align: left;
+    /* border: 1px solid black; */
+    padding: 10px;
+}
+
+.main-link  {
+    /* display: block; */
+    color: rgb(226, 190, 190);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.main-link:hover {
+    color: brown;
+}
+
+/* .main-link:visited {
+    color: rgb(221, 142, 39);
+} */
