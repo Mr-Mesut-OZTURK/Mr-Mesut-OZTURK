@@ -1,6 +1,6 @@
 # Hi guys! My name is Mesut. Welcome to my GitHub.
 
-# MY WEBSITE [MR-MESUT-OZTURK](https://mr-mesut-ozturk.github.io/Mr-Mesut-OZTURK/)
+# [MY WEBSITE](https://mr-mesut-ozturk.github.io/Mr-Mesut-OZTURK/)
 
 ## I am a Fullstack Web Developer 👋
 _____________________________________________________________
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
-- 📫 How to reach me: Linkedin (https://www.linkedin.com/in/mesut-ozturk)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mesut-ozturk)
 
 __________________________________________________________________________________________________________
 
