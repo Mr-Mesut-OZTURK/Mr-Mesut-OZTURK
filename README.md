@@ -7,16 +7,22 @@ _____________________________________________________________
 
 ## 🚀 Skills
 
+
+## DONE :
 <p>
- <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>  
+  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
+  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="50"/> </a> 
+  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="50"/> </a> 
+  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a> 
+ </p>
+ 
+ ## DOING :
+ <p>
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/> </a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height="50" /> </a> 
- <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="50"/> </a> 
- <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="sass" height="50"/> </a> 
  <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="40"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
