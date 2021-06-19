@@ -53,7 +53,7 @@ ________________________________________________________________________________
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-<img src="./images/animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./images/content_heart-react.gif" alt="react-native" width="20%" height="20%" align="right">
 
 - 🔭 I’m currently working on frontend development (JavaScript | React | HTML | CSS)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
