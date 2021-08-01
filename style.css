@@ -64,6 +64,7 @@ body {
     text-align: left;
     /* border: 1px solid black; */
     padding: 10px;
+    text-transform: capitalize;
 }
 
 .main-link  {
