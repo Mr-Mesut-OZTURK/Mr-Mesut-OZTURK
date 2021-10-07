@@ -5,340 +5,376 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MESUT OZTURK | Personal web page</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="favicon" href="./images/content_heart-react.gif" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="./images/193307.jpg" type="image/x-icon">
+
+    <title>MESUT OZTURK | Personal web page</title>
 </head>
 
-<body> 
+<body>
 
- <!-- Navbar Section -->
- <nav class="navbar">
-    <div class="navbar__container">
-        <a href="#home" id="navbar__logo">MESUT</a>
+    <!-- Navbar Section -->
+    <nav class="navbar">
+        <div class="navbar__container">
+            <a href="#home" id="navbar__logo">MESUT</a>
 
-        <div class="navbar__toggle" id="mobile-menu">
-            <span class="bar"> </span>
-            <span class="bar"></span>
-            <span class="bar"></span>
+            <div class="navbar__toggle" id="mobile-menu">
+                <span class="bar"> </span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+
+            <ul class="navbar__menu">
+
+                <li class="navber__item">
+                    <a href="#home" class="navbar__links" id="home-page">Home</a>
+                </li>
+
+                <li class="navber__item">
+                    <a href="#about" class="navbar__links" id="about-page">About Me</a>
+                </li>
+
+                <li class="navber__item">
+                    <a href="#services" class="navbar__links" id="services-page">Projects</a>
+                </li>
+
+
+                <li class="navber__btn">
+                    <a href="#sign-up" class="button" id="signup">Contact</a>
+                </li>
+
+            </ul>
         </div>
+    </nav>
 
-        <ul class="navbar__menu">
 
-            <li class="navber__item">
-                <a href="#home" class="navbar__links" id="home-page">Home</a>
-            </li>
 
-            <li class="navber__item">
-                <a href="#about" class="navbar__links" id="about-page">About</a>
-            </li>
+    <!-- Hero Section -->
+    <div class="hero" id="home">
+        <div class="hero__container">
+            <h1 class="hero__heading">Hi guys! My name is <span>Mesut.</span></h1>
 
-            <li class="navber__item">
-                <a href="#services" class="navbar__links" id="services-page">Services</a>
-            </li>
+            <p class="hero__description">I am a Fullstack Web Developer</p>
 
-            <li class="navber__btn">
-                <a href="#sign-up" class="button" id="signup">Sign up</a>
-            </li>
-            
-        </ul>
+            <!-- <p class="hero__description">Do you want to know me!...</p> -->
+
+            <a href="#about"><button class="main__btn">continue</button></a>
+        </div>
     </div>
-</nav>
 
 
 
-<!-- Hero Section -->
-<div class="hero" id="home">
-    <div class="hero__container">
-        <h1 class="hero__heading">Choose your <span>colors</span></h1>
-
-        <p class="hero__description">Lorem ipsum dolor sit amet consectetur.</p>
-
-        <button class="main__btn">choose</button>
+    <!-- About Section -->
+    <div class="main" id="about">
+        <h2 class="about__title">What I Know</h2>
+        <div class="about__cards__container" id="about__cards__container"></div>
     </div>
-</div>
 
-
-<!-- About Section -->
-<div class="main" id="about">
-    <div class="main__container">
-
-        <div class="main__img--container">
-            <div class="main__img--card">
-                <i class="fas fa-layer-group"></i>
-            </div>
-        </div>
-
-        <div class="main__content">
-            <h1>Whot do we do?</h1>
-            <h2>Lorem ipsum dolor sit amet.</h2>
-            <p>Lorem ipsum dolor sit amet.</p>
-            <button class="main__btn">
-                <a href="#">Schedule Call</a>
-            </button>
-        </div>
-
-    </div>
-</div>
-
-
-<!-- services section -->
-<div class="services" id="services">
-    <h1>Our Services</h1>
-    <div class="services__wrapper">
-
-        <div class="services__card">
-            <h2>Custom Colorways</h2>
-            <p>AI Powered tecnology</p>
-            <div class="services__btn">
-                <button>Get Started</button>
-            </div>
-        </div>
-
-        <div class="services__card">
-            <h2>Custom Colorways</h2>
-            <p>AI Powered tecnology</p>
-            <div class="services__btn">
-                <button>Get Started</button>
-            </div>
-        </div>
-
-        <div class="services__card">
-            <h2>Custom Colorways</h2>
-            <p>AI Powered tecnology</p>
-            <div class="services__btn">
-                <button>Get Started</button>
-            </div>
-        </div>
-
-        <div class="services__card">
-            <h2>Custom Colorways</h2>
-            <p>AI Powered tecnology</p>
-            <div class="services__btn">
-                <button>Get Started</button>
-            </div>
-        </div>
-
-    </div>
-</div>
-
-
-<!-- Features Sections -->
-<div class="main" id="sign-up">
-    <div class="main__container">
-
-        <div class="main__content">
-            <h1>Join Our Team</h1>
-            <h2>Sign Up Today</h2>
-            <p>See what makes us different</p>
-            <button class="main__btn">
-                <a href="#">Sign Up</a>
-            </button>
-        </div>
-
-        <div class="main__img--container">
-            <div class="main__img--card" id="card-2">
-                <i class="fas fa-users"></i>
-            </div>
-        </div>
-
-    </div>
-</div>
-
-
-<!-- Footer -->
-<div class="footer__container">
-    <div class="footer__links">
-        
-        <div class="footer__link--wrapper">
-
-            <div class="footer__link--items">
-                <h2>About Us</h2>
-                <a href="/sign-up">How to works it</a>
-                <a href="/sign-up">Lorem, ipsum</a>
-                <a href="/sign-up">Lorem, ipsum</a>
-                <a href="/sign-up">Lorem, ipsum</a>
-            </div>
-
-            <div class="footer__link--items">
-                <h2>Contact Us</h2>
-                <a href="/sign-up">Contact</a>
-                <a href="/sign-up">Lorem, ipsum</a>
-            </div>
-
-        </div>
-
-        <div class="footer__link--wrapper">
-
-            <div class="footer__link--items">
-                <h2>Videos</h2>
-                <a href="/sign-up">How to works it</a>
-                <a href="/sign-up">Lorem, ipsum</a>
-            </div>
-
-            <div class="footer__link--items">
-                <h2>Social Media</h2>
-                <a href="/sign-up">Instagram</a>
-                <a href="/sign-up">Youtube</a>
-                <a href="/sign-up">Twitter</a>
-                <a href="/sign-up">Gmail</a>
-            </div>
-
-        </div>
-
-    </div>
-    
-    <section class="social__media">
-        <div class="social__media--wrap">
-            <div class="footer__logo">
-                <a href="/" id="footer__logo">LOGO</a>
-            </div>
-            <p class="website__rights">MESUT 2021. All rights reserved</p>
-            <div class="social__icons">
-
-                <a href="/" class="social__icon--link" target="_blank">
-                    <i class="fab fa-facebook"></i>
-                </a>
-
-                <a href="/" class="social__icon--link" target="_blank">
-                    <i class="fab fa-instagram"></i>
-                </a>
-
-                <a href="/" class="social__icon--link" target="_blank">
-                    <i class="fab fa-youtube"></i>
-                </a>
-
-                <a href="/" class="social__icon--link" target="_blank">
-                    <i class="fab fa-linkedin"></i>
-                </a>
-
-                <a href="/" class="social__icon--link" target="_blank">
-                    <i class="fab fa-facebook"></i>
-                </a>
-
-            </div>
-        </div>
-    </section>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <main id="main-container">
-
-        <header id="main-header">
-            <h1 id="main-title">MESUT <span id="main-title-span">OZTURK</span></h1>
-            <p id="main-description">Welcome to my web pages!</p>
-        </header>
-
-        <section id="main-section">
-
-            <!-----------------  Github Webpages -------------------->
-            <section class="main-section">
-                <h2 class="section-h2">MY GITHUB WEBPAGES</h2>
-                <div class="main-inner-section">
-                    <ul>
-
-                        <li class="section-i">
-                            <a href="https://mr-mesut-ozturk.github.io/Mr-Mesut-OZTURK/index.html"
-                                class="main-link">Main Page</a>
-                        </li>
-
-                        <li class="section-i">
-                            <a href="https://mr-mesut-ozturk.github.io/basic-html-css-js-app/index.html"
-                                class="main-link">basic html css js app</a>
-                        </li>
-
-                        <li class="section-i">
-                            <a href="https://mr-mesut-ozturk.github.io/mesutozturk.github.io/index.html"
-                                class="main-link">My first github web pages</a>
-                        </li>
-
-                        <li class="section-i">
-                            <a href="https://github.com/Mr-Mesut-OZTURK/Av.VAHAP.github.io/index.html"
-                                class="main-link">Vahap Av. Bürosu</a>
-                        </li>
-
-                    </ul>
+    <script>
+        const aboutCard = document.getElementById("about__cards__container")
+
+        cardsImg = [{
+                cardImg: "./images/html5.png",
+                cardTitle: "HTML 5"
+            },
+            {
+                cardImg: "./images/css3.png",
+                cardTitle: "CSS 3"
+            },
+            {
+                cardImg: "./images/sass.png",
+                cardTitle: "SASS"
+            },
+            {
+                cardImg: "./images/js-logo.png",
+                cardTitle: "JAVA SCRIPT"
+            },
+            {
+                cardImg: "./images/bootstrap.png",
+                cardTitle: "BOOTSTRAP"
+            },
+            {
+                cardImg: "./images/jquery.gif",
+                cardTitle: "JQUERY"
+            },
+            {
+                cardImg: "./images/react.png",
+                cardTitle: "REACT JS"
+            },
+            {
+                cardImg: "./images/python.pNg",
+                cardTitle: "PYTHON"
+            },
+            {
+                cardImg: "./images/django.jpg",
+                cardTitle: "DJANGO"
+            },
+            {
+                cardImg: "./images/firebase.png",
+                cardTitle: "FIREBASE"
+            },
+            {
+                cardImg: "./images/mysql.png",
+                cardTitle: "MYSQL"
+            },
+            {
+                cardImg: "./images/postgresql.png",
+                cardTitle: "POSTGRESQL"
+            },
+        ]
+
+        aboutCard.innerHTML = cardsImg.map((item) => {
+
+            return (`
+                <div class="about__card">
+                    <div style="background-image: url('${item.cardImg}');" class="about__card__img__container"></div>
+
+                    <div class="about__card__info">
+                            <h3>${item.cardTitle}</h3>
+                    </div>
                 </div>
-            </section>
+                `)
 
-            <!---------------------  Github Repositories  ------------------------>
-            <section class="main-section">
-                <h2 class="section-h2">MY GITHUB REPOS</h2>
-                <div class="main-inner-section">
-                    <ul>
-                        <li class="section-i">
-                            <a href="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK"
-                                class="main-link">Mr Mesut OZTURK</a>
-                        </li>
-                        <li class="section-i">
-                            <a href="https://github.com/Mr-Mesut-OZTURK/basic-html-css-js-app"
-                                class="main-link">basic html css js app</a>
-                        </li>
-                        <li class="section-i">
-                            <a href="https://github.com/Mr-Mesut-OZTURK/mesutozturk.github.io"
-                                class="main-link">My first github web pages</a>
-                        </li>
-                        <li class="section-i">
-                            <a href="https://github.com/Mr-Mesut-OZTURK/python-basic-project"
-                                class="main-link">python basic project</a>
-                        </li>
-                        <li class="section-i">
-                            <a href="https://github.com/Mr-Mesut-OZTURK/Av.VAHAP.github.io"
-                                class="main-link">Vahap Av. Bürosu</a>
-                        </li>
-                        <li class="section-i">
-                            <a href="https://github.com/Mr-Mesut-OZTURK/clarusway-itf-assigment"
-                                class="main-link">clarusway itf assigment</a>
-                        </li>
-                    </ul>
+        })
+    </script>
+
+
+
+    <!-- services section / projects -->
+    <div class="services" id="services">
+        <h1>My Projects</h1>
+        <div class="services__wrapper">
+
+            <div class="services__card">
+                <h2>Custom Colorways</h2>
+                <p>AI Powered tecnology</p>
+                <div class="services__btn">
+                    <button>Get Started</button>
                 </div>
-            </section>
+            </div>
+
+            <div class="services__card">
+                <h2>Custom Colorways</h2>
+                <p>AI Powered tecnology</p>
+                <div class="services__btn">
+                    <button>Get Started</button>
+                </div>
+            </div>
+
+            <div class="services__card">
+                <h2>Custom Colorways</h2>
+                <p>AI Powered tecnology</p>
+                <div class="services__btn">
+                    <button>Get Started</button>
+                </div>
+            </div>
+
+            <div class="services__card">
+                <h2>Custom Colorways</h2>
+                <p>AI Powered tecnology</p>
+                <div class="services__btn">
+                    <button>Get Started</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script>
+        const projectContainer = document.querySelector(".services__wrapper")
+
+        cardsImg = [
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+            {
+                cardTitle: "Main Repo",
+                cardDesc: "You can see my info",
+                url: "https://github.com/Mr-Mesut-OZTURK"
+            },
+        ]
+
+        projectContainer.innerHTML = cardsImg.map((item) => {
+
+            return (`
+            <div class="services__card">
+                <h2>${item.cardTitle}</h2>
+                <p>${item.cardDesc}</p>
+                <div class="services__btn">
+                    <a href="${item.url}">
+                        <button>Go to See</button>
+                    </a>
+                </div>
+            </div>
+                `)
+
+        })
+    </script>
+
+
+
+    <!-- Features Sections -->
+    <div class="main" id="sign-up">
+        <div class="main__container">
+
+            <div class="main__content">
+                <h1>You can ask to me</h1>
+                <!-- <h2>Don't give up</h2> -->
+
+                <a href="#footer__container">
+                    <button class="main__btn">
+                        Contact with me
+                    </button>
+                </a>
+
+            </div>
+
+            <div class="main__img--container">
+                <div class="main__img--card" id="card-2">
+                    <i class="fas fa-users"></i>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- Footer -->
+    <footer class="footer__container" id="footer__container">
+
+        <div class="footer__links">
+
+            <div class="footer__link--wrapper">
+
+                <div class="footer__link--items">
+                    <h2>About Me</h2>
+                    <a href="#home">Home</a>
+                    <a href="#about">About</a>
+
+                </div>
+
+                <div class="footer__link--items">
+                    <h2>Contact</h2>
+                    <a target="_blank" href="https://github.com/Mr-Mesut-OZTURK">Github</a>
+                    <a target="_blank" href="https://www.linkedin.com/in/mesut-ozturk/">Linkedin</a>
+                    <a target="_blank" href="mailto: mesut8311006@gmail.com">Gmail</a>
+                </div>
+
+            </div>
+
+            <div class="footer__link--wrapper">
+
+                <div class="footer__link--items">
+                    <h2>Videos</h2>
+                    <a href="/sign-up">I don't have</a>
+                    <!-- <a href="/sign-up">Lorem, ipsum</a> -->
+                </div>
+
+                <div class="footer__link--items">
+                    <h2>Social Media</h2>
+                    <a href="/sign-up">Instagram</a>
+                    <a href="/sign-up">Youtube</a>
+                    <a href="/sign-up">Twitter</a>
+                    <a href="/sign-up">Gmail</a>
+                </div>
+
+            </div>
+
+        </div>
+
+        <section class="social__media">
+            <div class="social__media--wrap">
+                <div class="footer__logo">
+                    <a href="#" id="footer__logo">LOGO</a>
+                </div>
+                <p class="website__rights">MESUT 2021. All rights reserved</p>
+                <div class="social__icons">
+
+                    <a href="#" class="social__icon--link" target="_blank">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#" class="social__icon--link" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+
+                    <a href="#" class="social__icon--link" target="_blank">
+                        <i class="fab fa-youtube"></i>
+                    </a>
+
+                    <a href="#" class="social__icon--link" target="_blank">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+
+                    <a href="#" class="social__icon--link" target="_blank">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+
+                </div>
+            </div>
         </section>
-    </main>
+
+    </footer>
 
 
     <script src="App.js"></script>
+
 </body>
 
 </html>
