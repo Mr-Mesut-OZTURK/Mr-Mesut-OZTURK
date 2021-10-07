@@ -13,9 +13,9 @@ _____________________________________________________________
   <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
   
   
-  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="50"/> </a> 
+  <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/html5.png" alt="html" height="50"/> </a> 
+  <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/css3.png" alt="css" height="50"/> </a> 
+  <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/js-logo.png" alt="js" height="50"/> </a> 
   
   
   <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919831.svg" alt="sass" height="50"/> </a>
