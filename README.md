@@ -7,6 +7,7 @@ _____________________________________________________________
 
 ## 🚀 Skills
 
+  <a href="#" target="_blank"> <img src="https://www.codewars.com/users/Mr-Mesut-OZTURK/badges/large" alt="html" height="50"/> </a> 
 
 ## FRONTEND :
 <p>
@@ -19,7 +20,11 @@ _____________________________________________________________
   <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/sass.png" alt="sass" height="50"/> </a>
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a>
   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>
-  <a href="#" target="_blank"> <img src="https://material-ui.com/static/logo_raw.svg" alt="material-ui" height="40"/> </a> 
+
+  
+  <a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" alt="material-ui" height="40"/> </a> 
+  <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon.png" alt="material-ui" height="40"/> </a> 
+  <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png" alt="material-ui" height="40"/> </a> 
 
 
  </p>
@@ -29,19 +34,25 @@ _____________________________________________________________
 <p>
   <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="70"/> </a> 
+
+  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a> 
+  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express js" height="50" /> </a> 
   
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="50"/> </a> 
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a> 
+
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
-
-
  </p>
  
  ## TOOLS :
  <p>
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" alt="gitHub" height="50"/> </a>
+
+   
+  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" alt="jira" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" alt="slack" height="40"/> </a>
   
   
   <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 
@@ -49,21 +60,13 @@ _____________________________________________________________
   
   
   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="60"/> </a> 
-  
+  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a> 
+
 </p>
 
-## TO DO :
+## MOBILE :
 <p>
   <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/>     </a> 
-  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://miro.medium.com/max/875/0*r1BTGwo9cd8IGNQQ.jpeg" alt="express" height="50" /> </a> 
-  
-  <p></p>
-  <p></p>
-  
-  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="MariaDB" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a> 
 </p>
 ______________________________________________________________________________________________________
 
@@ -78,7 +81,7 @@ ________________________________________________________________________________
 <img src="./images/content_heart-react.gif" alt="react-native" width="20%" height="20%" align="right">
 
 - 🔭 I’m currently working on frontend development (JavaScript | React | HTML | CSS)
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+- 🌱 I’m currently writing on backend development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mesut-ozturk)
